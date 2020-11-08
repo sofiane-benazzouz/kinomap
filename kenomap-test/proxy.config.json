@@ -1,0 +1,7 @@
+{
+  "/test/*": {
+    "target": "http://62.210.247.201:9000/",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
