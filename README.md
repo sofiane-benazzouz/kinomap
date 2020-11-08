@@ -1,5 +1,12 @@
 # kinomap-projet-angular
 
+
+récupération de projet:
+-----------------------
+
+git clone https://github.com/sofiane-benazzouz/kinomap.git
+
+
 Lancement de projet sur npm
 --------------------------
 
