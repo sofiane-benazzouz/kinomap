@@ -1,4 +1,4 @@
-# kinomap
+# kinomap-projet-angular
 
 Lancement de projet sur npm
 --------------------------
